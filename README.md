@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junaihd
 - 👀 I’m interested in 3D, Js, Marketing
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning Js and its 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on junaihd007@gmail.com on e-mail and @junaihd on LinkedIn
